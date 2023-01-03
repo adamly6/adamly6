@@ -13,8 +13,7 @@ I am a student at the University of Rzeszów. Programming is my passion and the 
 ### Interests
 * Learning new languages
 * Chess 
-* Recreational shooting
-* Cultivating tradition in the "Grave Guard Association"
+
 
 
 
