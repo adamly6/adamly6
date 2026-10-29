@@ -1,5 +1,5 @@
 
-# Hi there, I'm Adam Młynek 👋
+# Hi there, I'm Adam 👋
 
 ### 💻 Mainframe Developer | Software Engineer
 
